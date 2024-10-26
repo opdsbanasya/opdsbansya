@@ -6,6 +6,9 @@
 <a href="https://linkedin.com/in/dharm-singh-saini">
   <img align="left" alt="Dharm Singh Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
+<a href="mailto:opdsbanasya@gmail.com">
+  <img align="left" alt="Dharm Singh Saini - gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
 <a href="https://www.instagram.com/oyee_dharm/">
   <img align="left" alt="Dharm Singh Saini - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
